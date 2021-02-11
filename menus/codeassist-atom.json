@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Email Config",
+        "command": "codeassist-atom:email"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "codeassist-atom",
+          "submenu": [
+            {
+              "label": "Email Config",
+              "command": "codeassist-atom:email"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
