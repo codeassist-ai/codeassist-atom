@@ -1,6 +1,6 @@
 {
   "name": "codeassist-atom",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Autocomplete code using AI",
   "repository": "https://github.com/codeassist-ai/codeassist-atom",
   "license": "MIT",
